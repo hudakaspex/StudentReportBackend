@@ -1,4 +1,4 @@
-package com.student.report.Student.Report.User;
+package com.student.report.Common.User;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

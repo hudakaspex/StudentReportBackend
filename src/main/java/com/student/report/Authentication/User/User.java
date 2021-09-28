@@ -1,4 +1,4 @@
-package com.student.report.Student.Report.User;
+package com.student.report.Common.User;
 
 import lombok.Getter;
 import lombok.Setter;
